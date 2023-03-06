@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buttonCriarConta {
+    border: none;
+    border-radius: 6%;
+    height: 25px;
+    width: 100px
+}
+
+.divForm {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+input {
+    margin-bottom: 15%
+}

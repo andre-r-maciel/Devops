@@ -1,0 +1,5 @@
+export { Buscar } from './buscar/buscar.screen'
+export { Cadastro } from './cadastro/cadastro.screen'
+export { Editar } from './editar/editar.screen'
+export { Login } from './login/login.screen'
+export { Perfil } from './perfil/perfil.screen'
